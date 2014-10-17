@@ -3,7 +3,7 @@
 Install Python, pip and virtualenv:
 
 ```sh
-$ git@github.com:matejkloska/gjmh-orders-app.git
+$ git clone git@github.com:matejkloska/gjmh-orders-app.git
 $ cd gjmh-orders-app
 $ virtualenv .env --no-site-packages
 $ source ./.env/bin/activate
